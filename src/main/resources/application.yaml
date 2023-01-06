@@ -1,0 +1,7 @@
+# u盘
+udisk:
+  globalSwitch: true # 启用,检测功能
+  autorun_file: Autorun.yaml  # U盘中 自动运行的配置文件命名
+  openUDiskEnable: true
+  syncdataEnable: true  # 允许自动同步数据
+  autorunEnable: true   # 允许自动执行程序
